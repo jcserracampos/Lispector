@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: Lispector
+## Notes: A Clarice Lispector's random poems per login
+## Author: Júlio Campos
+## Version 0.1
+
+main.lua
